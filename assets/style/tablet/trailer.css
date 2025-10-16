@@ -1,0 +1,106 @@
+.trailer{
+    width: 100%;
+    height: 700px;
+    background-color: black;
+}
+.trailer .right-list{
+    display: none;
+}
+.trailer .swiper{
+    width: 90%;
+    border-radius: 10px;
+    background-color: black;
+    margin-top: 10px;
+}
+.trailer .swiper .swiper-slide{
+    width: 100%;
+    background-color: black;
+}
+.trailer .swiper .swiper-button-next{
+    color: gray;
+    background-color: transparent;
+    width: 10px;
+}
+.trailer .swiper .swiper-button-prev{
+    color: gray;
+    background-color: transparent;
+    width: 10px;
+}
+.trailer .swiper .swiper-button-prev svg{
+    background-color: transparent;
+}
+.trailer .swiper .swiper-button-next svg{
+    background-color: transparent;
+}
+.trailer .swiper .swiper-slide .top{
+    width: 100%;
+    position: relative;
+}
+.trailer .swiper .swiper-slide .top img{
+    width: 100%;
+    background: linear-gradient(180deg,transparent 0,transparent 65%,rgba(0,0,0,.35) 83.5%,rgba(0,0,0,.75));
+}
+.trailer .swiper .swiper-slide .top span{
+    position: absolute;
+    right: 89%;
+    bottom: 20%;
+    opacity: 0.5;
+}
+.trailer .swiper .swiper-slide .top span:nth-of-type(1){
+    position: absolute;
+    right: 70%;
+    bottom: 13%;
+    opacity: 0.5;
+}
+.trailer .swiper .swiper-slide:nth-of-type(5) .top span{
+    position: absolute;
+    right: 70%;
+    bottom: 25%;
+}
+.trailer .swiper .swiper-slide .top p{
+    position: absolute;
+    right: 65%;
+    bottom: 11%;
+    color: white;
+}
+.trailer .swiper .swiper-slide:nth-of-type(5) .top p{
+    position: absolute;
+    right: 65%;
+    bottom: 25%;
+    color: white;
+}
+
+.trailer .swiper .swiper-slide .top img.second{
+    width: 132px;
+    height: 195px;
+    border-radius: 10px;
+    position: absolute;
+    top: 70%;
+    left: 7%;
+    
+}
+
+.trailer .swiper .swiper-slide .top p.first{
+    width: 400px;
+    position: absolute;
+    right: 35%;
+    text-align: left;
+    top: 88%;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.trailer .swiper .swiper-slide .top p.second{
+    position: absolute;
+    right: 62%;
+    top: 105%;
+    font-weight: 600;
+    font-size: 18px;
+    color: gray;
+}
+
+
+
+.trailer h3{
+    display: none;
+}

@@ -1,0 +1,109 @@
+main .popular{
+    width: 100%;
+    background-color: black;
+}
+main .popular .top{
+    width: 100%;
+}
+main .popular .top a{
+    width: 90%;
+    margin: 0 auto;
+    text-decoration: none !important;
+    display: flex;
+    flex-direction: row;
+}
+main .popular .top a h3{
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 5px;
+}
+main .popular .top a span:nth-of-type(1){
+    margin-top: -2px;
+}
+main .popular .top a span:nth-of-type(2){
+    margin-top: 3px;
+}
+main .popular .bottom{
+    width: 100%;
+    background-color: black;
+}
+main .popular .bottom .swiper{
+    width: 100%;
+    display: block;
+}
+main .popular .bottom .swiper .swiper-slide{
+    width: 100%;
+    background-color: black;
+}
+main .popular .bottom .swiper .swiper-slide:nth-of-type(2){
+    width: 100%;
+    background-color: black;
+    margin-top: 0px;
+}
+main .popular .bottom .swiper .swiper-slide:nth-of-type(3){
+    width: 100%;
+    background-color: black;
+    margin-top: 35px;
+}
+main .popular .bottom .swiper .swiper-slide:nth-of-type(4){
+    width: 100%;
+    background-color: black;
+    margin-top: 35px;
+}
+main .popular .bottom .swiper .swiper-slide:nth-of-type(5){
+    width: 100%;
+    background-color: black;
+    margin-top: 35px;
+}
+main .popular .bottom .swiper .swiper-slide:nth-of-type(6){
+    width: 100%;
+    background-color: black;
+    margin-top: 35px;
+}
+main .popular .bottom .swiper .swiper-slide:nth-of-type(7){
+    width: 100%;
+    background-color: black;
+    margin-top: 35px;
+}
+main .popular .bottom .swiper .swiper-slide .top{
+    width: 100%;
+}
+main .popular .bottom .swiper .swiper-slide .top p{
+    width: 30%;
+    color: #EBC103;
+    font-weight: 600;
+    font-size: 13px; 
+}
+main .popular .bottom .swiper .swiper-slide .bottom{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+main .popular .bottom .swiper .swiper-slide .bottom a{
+    width: 45%;
+    margin: 0 auto;
+    text-decoration: none !important;
+}
+main .popular .bottom .swiper .swiper-slide .bottom a img{
+    border-radius: 50%;
+    height: 134px;
+    width: 124px;
+    margin: 0 auto;
+    object-fit: unset;
+}
+main .popular .bottom .swiper .swiper-slide .bottom a .text{
+    width: 100%;
+}
+main .popular .bottom .swiper .swiper-slide .bottom a .text p.first{
+    width: 100%;
+    color: white;
+    font-size: 15px;
+}
+main .popular .bottom .swiper .swiper-slide .bottom a .text p.second{
+    width: 100%;
+    color: white;
+    font-size: 17px;
+    margin-top: -10px;
+}
+

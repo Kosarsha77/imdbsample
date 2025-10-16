@@ -1,0 +1,17 @@
+{
+  "name": "imdb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kosar Shaghaghi",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "init": "^0.1.2",
+    "swiper": "^12.0.2"
+  },
+  "description": "this is a sample of imdb"
+}

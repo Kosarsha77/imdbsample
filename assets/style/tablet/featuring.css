@@ -1,0 +1,70 @@
+main{
+    background-color: black;
+}
+main h3{
+    color: #EBC103;
+    font-weight: 700;
+    margin-left: 20px;
+    
+}
+main .featured{
+    width: 100%;
+    background-color: rgb(55, 55, 55);
+    
+}
+main .featured .swiper:nth-of-type(2){
+    width: 100%;
+    background-color: black;
+    display: none;
+}
+main .featured .swiper{
+    width: 100%;
+    background-color: black;
+}
+main .featured .swiper .swiper-slide{
+    width: 450px !important;
+    background-color: black;
+    margin: 0 auto;
+}
+main .featured .swiper .swiper-button-next{
+    color: rgb(94, 94, 95);
+    width: 10px;
+}
+main .featured .swiper .swiper-button-prev{
+    color: rgb(100, 100, 100);
+    width: 10px;
+}
+main .featured .swiper .swiper-slide .pics{
+    width: 100%;
+    
+    justify-content: center;
+    background-color: black;
+}
+main .featured .swiper .swiper-slide .pics img:nth-of-type(1){
+    border-top-left-radius: 8px;
+}
+main .featured .swiper .swiper-slide .pics img:nth-of-type(3){
+    border-top-right-radius: 8px;
+}
+main .featured .swiper .swiper-slide .text{
+    width: 100%;
+    text-align: left;
+    background-color: black;
+    margin-left: 20px;
+}
+main .featured .swiper .swiper-slide .text a.first{
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    color: white;
+    margin-top: 10px;
+    text-decoration: none !important;
+    font-weight: 600;   
+}
+main .featured .swiper .swiper-slide .text a.second{
+     width: 90%;
+    margin: 0 auto;
+    display: block;
+    margin-top: 10px;
+    text-decoration: none !important;
+}

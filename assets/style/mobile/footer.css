@@ -1,0 +1,173 @@
+footer{
+    width: 100%;
+    display: block;
+}
+footer .app{
+    width: 100%;
+    height: 68px;
+    padding: 16px 0;
+    background: rgba(255, 255, 255, 0.1);
+    display: block;
+    background-color: rgb(18, 18, 18);
+}
+footer .app div{
+    width: 100%;
+    height: 36px;
+    margin: 0 auto;
+    display: block;
+}
+footer .app div a{
+    width: 60%;
+    height: 100%;
+    padding: 0 32px;
+    background-color: rgb(245,197,24);
+    border-radius: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin: 0 auto;
+}
+footer .app div a span{
+    width: 115px;
+    height: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #000;
+}
+footer .signin{
+    width: 100%;
+    height: 68px;
+     padding: 16px 0;
+    background: rgba(255, 255, 255, 0.1);
+    display: block;
+     background-color:#0F0F0F
+}
+footer .signin div{
+    width: 100%;
+    height: 36px;
+    margin: 0 auto;
+    display: block;
+}
+footer .signin div a{
+    width: 60%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.08);
+    border-radius: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin: 0 auto;
+}
+footer .signin div a span{
+    height: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+footer .links{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-top: -17px;
+    background-color: #000;
+}
+footer .links .logos{
+    width: 75%;
+    height: 96px;
+    margin: 0 auto;
+    display: block;
+    align-items: center;
+}
+footer .links .logos .icons{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin: 0 auto;
+    justify-content: center;
+    padding-top: 15px;
+}
+footer .links .logos .icons div{
+    width: 48px;
+    height: 48px;
+    margin: 0 8px;
+    display: inline-block;
+    vertical-align: middle;
+}
+footer .links .logos .icons div a{
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: inline-block;
+    padding: 11px;
+    position: relative;
+    border: 1px solid transparent;
+    text-decoration: none;
+}
+footer .links div{
+    width: 100%;
+    display: block;
+}
+footer .links div .options{
+    width: 75%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    align-items: center;
+    margin: 0 auto;
+    padding: 0;
+}
+footer .links div .options div{
+    width: auto;
+    margin: 0 8px;
+    display: inline-block;
+    vertical-align: middle;
+}
+footer .links div .options div a{
+    padding: 8px;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+}
+footer .links div .options div a:hover{
+    text-decoration: underline;
+}
+footer .amazon{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    color: #fff;
+}
+footer .amazon svg{
+    margin-top: 5px;
+}
+footer p{
+    width: 100%;
+    margin:  0;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    color: rgba(255, 255, 255, 0.7);
+    display: block;
+    background-color: #000;
+    text-align: center;
+    padding-bottom: 20px;
+}
+footer .links .socialmedia{
+    width: 71%;
+    height: 142px;
+    display: none;
+    flex-flow: row nowrap;
+    justify-content: center;
+    margin: 0 auto;
+}

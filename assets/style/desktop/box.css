@@ -1,0 +1,91 @@
+main h2.explore{
+    color: #EBC103;
+    font-weight: 600;
+    margin-left: 15px;
+    margin-top: 20px;
+    display: none;
+}
+main h2.exp{
+    color: #EBC103;
+    font-weight: 600;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+
+main .box{
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+}
+main .box .top{
+    width: 80%;
+    margin: 0 auto;
+}
+main .box .top a{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-decoration: none !important;
+}
+main .box .top a h2{
+    font-size: 20px;
+    color: white;
+    margin-top: 6px;
+    font-weight: 600;
+}
+main .box .top p{
+    font-size: 15px;
+    color: rgb(176, 176, 176);
+    margin-left: 10px;
+}
+main .box .bottom{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+main .box .bottom a{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none !important;
+}
+main .box .bottom a .left{
+    width: 90%;
+    margin-left: 5px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    height: 35px;
+}
+main .box .bottom a .left span:nth-of-type(2){
+    margin-top: -15px;
+}
+main .box .bottom a .left span:nth-of-type(1){
+    margin-top: -10px;
+}
+
+main .box .bottom a .left p{
+    color: white;
+    margin-top: 5px;
+    color: rgb(51, 99, 232);
+}
+main .box .bottom a .right{
+    width: 88%;
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    margin: 0 auto;
+}
+main .box .bottom a .right p.first{
+    color: gray;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+main .box .bottom a .right p.second{
+    color: gray;
+    font-size: 12px;
+    font-weight: 600;
+}

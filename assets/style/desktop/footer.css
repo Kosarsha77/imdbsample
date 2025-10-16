@@ -1,0 +1,284 @@
+footer{
+    width: 100%;
+    display: block;
+}
+footer .app{
+    width: 100%;
+    height: 68px;
+    padding: 16px 0;
+    background: rgba(255, 255, 255, 0.1);
+    display: none;
+    background-color: rgb(18, 18, 18);
+}
+footer .app div{
+    width: 100%;
+    height: 36px;
+    margin: 0 auto;
+    display: block;
+}
+footer .app div a{
+    width: 179px;
+    height: 100%;
+    padding: 0 32px;
+    background-color: rgb(245,197,24);
+    border-radius: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin: 0 auto;
+}
+footer .app div a span{
+    width: 115px;
+    height: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #000;
+}
+footer .signin{
+    width: 100%;
+    height: 36px;
+    padding: 16px 0;
+    background: rgba(255, 255, 255, 0.1);
+    display: block;
+    background-color:#000;
+    padding: 0;
+}
+footer .signin div{
+    width: 100%;
+    height: 36px;
+    margin: 0 auto;
+    display: block;
+}
+footer .signin div a{
+    width: 216px;
+    height: 100%;
+    background-color: rgb(245,197,24);
+    border-radius: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin: 0 auto;
+}
+footer .signin div a span{
+    height: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    color:#000;
+}
+footer .links{
+    width: 100%;
+    height: 310px;
+    display: block;
+    margin-top: 0;
+    background-color: #000;
+    margin: 0 auto;
+}
+footer .links .socialmedia{
+    width: 71%;
+    height: 142px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    margin: 0 auto;
+}
+footer .links .socialmedia div{
+    width: 401px;
+    height: 102px;
+    border: 2px solid rgb(31,31,31);
+    padding-top: 16px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+footer .links .socialmedia div .top{
+    width: 100%;
+    height: 24px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 24px;
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: unset;
+    text-align: center;
+}
+footer .links .socialmedia div ul{
+    width: 100%;
+    display: inline;
+    align-items: center;
+    vertical-align: baseline;
+}
+footer .links .socialmedia div ul li{
+    width: 48px;
+    height: 48px;
+    margin: 0 8px;
+    display: inline-block;
+    vertical-align: middle;
+}
+footer .links .socialmedia div ul li a{
+    width: 48px;
+    height: 48px;
+    padding: 11px;
+    text-decoration: none;
+}
+footer .links .socialmedia div ul li a:hover{
+    border-radius: 50%;
+    background-color: #242323;
+}
+footer .links .socialmedia .right{
+    width: 401px;
+    height: 102px;
+    display: flex;
+    
+}
+footer .links .socialmedia .right .text{
+    width: 195px;
+    height: 74px;
+    margin-top: 24px;
+    padding-left: 24px;
+    border: unset;
+    text-align: left;
+    display: block;
+    position: relative;
+    top: -35%;
+}
+footer .links .socialmedia .right .text .firstline{
+    height: 24px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    color: #fff;
+    letter-spacing: 0.25px;
+    border: unset;
+    padding: 0;
+    margin: 0;
+}
+footer .links .socialmedia .right .text .secondline{
+    height: 32px;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 32px;
+    letter-spacing: 0.5px;
+    border: unset;
+    padding: 0;
+    margin: 0;
+}
+footer .links .socialmedia .right .QRcode{
+    height: 74px;
+    margin: 16px 24px 16px auto;
+    padding: 0;
+    border: unset;
+    display: block;
+    direction: rtl;
+    position: relative;
+    top: -15%;
+}
+footer .links .socialmedia .right .QRcode div{
+    width: 66px;
+    height: 66px;
+    border: 4px solid #fff;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+footer .links .socialmedia .right .QRcode img{
+    width: 58px;
+    height: 58px;
+    object-fit: cover;
+}
+footer .links .logos{
+    width: 75%;
+    height: 96px;
+    margin: 0 auto;
+    display: none;
+    align-items: center;
+}
+footer .links .logos .icons{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin: 0 auto;
+    justify-content: center;
+    padding-top: 15px;
+}
+footer .links .logos .icons div{
+    width: 48px;
+    height: 48px;
+    margin: 0 8px;
+    display: inline-block;
+    vertical-align: middle;
+}
+footer .links .logos .icons div a{
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: inline-block;
+    padding: 11px;
+    position: relative;
+    border: 1px solid transparent;
+    text-decoration: none;
+}
+footer .links div{
+    width: 100%;
+    height: 40px;
+    display: block;
+}
+footer .links div .options{
+    width: 75%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    align-items: center;
+    margin: 0 auto;
+    padding: 0;
+}
+footer .links div .options div{
+    width: auto;
+    margin: 0 8px;
+    display: inline-block;
+    vertical-align: middle;
+}
+footer .links div .options div a{
+    padding: 8px;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+}
+footer .links div .options div a:hover{
+    text-decoration: underline;
+}
+footer .amazon{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    color: #fff;
+}
+footer .amazon svg{
+  margin-top: 5px;  
+}
+footer p{
+    width: 100%;
+    margin:  0;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    color: rgba(255, 255, 255, 0.7);
+    display: block;
+    background-color: #000;
+    text-align: center;
+    padding-bottom: 20px;
+}

@@ -1,0 +1,69 @@
+main .editor{
+    width: 98%;
+    background-color: black;
+}
+main .editor .top{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+main .editor .top h2{
+    color: white;
+    font-size: 20px;
+    margin-top: 7px;
+    font-weight: 700;
+}
+main .editor .bottom{
+    width: 100%;
+    background-color: black;
+}
+
+main .editor .bottom .swiper{
+    width: 100%;
+    background-color: black;
+}
+main .editor .bottom .swiper .swiper-slide{
+    width: 100%;
+    background-color: black;
+}
+main .editor .bottom .swiper .swiper-button-next{
+    color: rgb(94, 94, 95);
+    width: 10px;
+}
+main .editor .bottom .swiper .swiper-button-prev{
+    color: rgb(100, 100, 100);
+    width: 10px;
+}
+main .editor .bottom .swiper .swiper-slide .pics{
+    width: 100%;
+    justify-content: center;
+    background-color: black;
+}
+main .editor .bottom .swiper .swiper-slide .pics img{
+    width: 384px;
+    margin: 0 auto;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+main .editor .bottom .swiper .swiper-slide .text{
+    width: 100%;
+    text-align: left;
+    background-color: black;
+}
+main .editor .bottom .swiper .swiper-slide .text a.first{
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    color: white;
+    margin-top: 10px;
+    text-decoration: none !important;
+    font-weight: 600;   
+}
+main .editor .bottom .swiper .swiper-slide .text a.second{
+     width: 90%;
+    margin: 0 auto;
+    display: block;
+    margin-top: 10px;
+    text-decoration: none !important;
+}

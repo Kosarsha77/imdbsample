@@ -1,0 +1,100 @@
+main .news{
+    width: 100%;
+    background-color: rgb(27, 27, 27);
+    margin-top: 30px;
+    padding-bottom: 50px;
+}
+main .news .top{
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+}
+main .news .top a{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    text-decoration: none !important;
+}
+main .news .top a h2{
+     font-size: 20px;
+    color: white;
+    margin-top: 6px;
+    font-weight: 600;
+}
+main .news .middle{
+    width: 100%;
+}
+
+main .news .middle .swiper .swiper-button-next{
+    color: gray;
+    width: 10px;
+}
+main .news .middle .swiper .swiper-button-prev{
+    color: gray;
+    width: 10px;
+}
+
+main .news .middle .swiper{
+    width: 100%;
+}
+main .news .middle .swiper .swiper-slide{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(27, 27, 27);
+}
+main .news .middle .swiper .swiper-slide a{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+      background-color: rgb(27, 27, 27);
+      text-decoration: none !important;
+}
+main .news .middle .swiper .swiper-slide a .left{
+    width: 33%;
+}
+main .news .middle .swiper .swiper-slide a .left img{
+    width: 90px;
+    height: 133px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    object-fit: cover;
+}
+main .news .middle .swiper .swiper-slide a .right{
+    width: 55%;
+}
+main .news .middle .swiper .swiper-slide a .right p.first{
+    width: 100%;
+    text-align: left;
+    font-size: 16px;
+    color: white;
+}
+main .news .middle .swiper .swiper-slide a .right p.second{
+    width: 100%;
+    color: white;
+    font-size: 12px;
+    text-align: left;
+}
+main .news .bottom{
+    width: 100%;
+    display: flex;
+    gap: 10px;
+}
+main .news .bottom a{
+    width: 25%;
+    text-decoration: none !important;
+}
+main .news .bottom a:nth-last-of-type(1){
+    width: 25%;
+    display: none;
+    text-decoration: none !important;
+}
+main .news .bottom a button{
+    width: 100%;
+    border-radius: 10px;
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    font-size: 12px;
+}

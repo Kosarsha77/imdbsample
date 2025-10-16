@@ -1,0 +1,96 @@
+.trailer{
+    width: 100%;
+    background-color: black;
+    z-index: 1;
+    margin-top: 20px;
+}
+.trailer .right-list{
+    display: none;
+}
+.trailer .swiper{
+    width: 324px;
+    background-color: black;
+    z-index: 1;
+}
+.trailer .swiper .swiper-button-next{
+    color: gray;
+    background-color: transparent;
+    width: 10px;
+}
+.trailer .swiper .swiper-button-prev{
+    color: gray;
+    background-color: transparent;
+    width: 10px;
+}
+.trailer .swiper .swiper-button-prev svg{
+    background-color: transparent;
+}
+.trailer .swiper .swiper-button-next svg{
+    background-color: transparent;
+}
+.trailer .swiper .swiper-slide{
+    width: 100%;
+    background-color: black;
+    height: 280px;
+}
+.trailer .swiper .swiper-slide .top{
+    width: 100%;
+    position: relative;
+}
+.trailer .swiper .swiper-slide .top img{
+    border-radius: 15px;
+}
+.trailer .swiper .swiper-slide .top span{
+    position: absolute;
+    right: 52%;
+    bottom: 2%;
+}
+.trailer .swiper .swiper-slide .top span.second{
+    position: absolute;
+    right: 83.5%;
+    bottom: 2.3%;
+    opacity: 0.6;
+}
+.trailer .swiper .swiper-slide .top p{
+    position: absolute;
+    right: 40%;
+    bottom: 0%;
+    color: white;
+}
+
+.trailer .swiper .swiper-slide .top img.second{
+    width: 90px;
+    height: 133px;
+    position: absolute;
+    top: 70%;
+    left: 3%;
+}
+
+.trailer .swiper .swiper-slide .top p.first{
+    width: 200px;
+    position: absolute;
+    right: 5%;
+    top: 100%;
+    font-weight: 600;
+    font-size: 14px;
+    text-align: left;
+}
+
+
+.trailer .swiper .swiper-slide .top p.second{
+    position: absolute;
+    right: 30%;
+    top: 130%;
+    font-weight: 600;
+    font-size: 15px;
+    color: gray;
+}
+
+.trailer h3{
+    width: 90%;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 20px;
+    background-color: black;
+}

@@ -1,0 +1,92 @@
+main .watchlist{
+    width: 100%;
+    background-color: black;
+    margin-top: 50px;
+    display: flex;
+}
+main .watchlist h2{
+    color: #EBC103;
+    font-weight: 600;
+    margin-left: 20px;
+    width: 50%;
+}
+main .watchlist a{
+    width: 50%;
+    text-decoration: none;
+}
+main .watchlist a p{
+    margin-left: 50px;
+}
+main .watch{
+    width: 100%;
+    background-color: black;
+    height: 278px;
+}
+main .watch .top{
+    width: 100%;
+}
+main .watch .top a{
+    width: 90%;
+    margin: 0 auto;
+    text-decoration: none !important;
+    display: flex;
+    flex-direction: row;
+}
+main .watch .top a h3{
+    color: white;
+    font-weight: 700;
+    font-size: 22px;
+    margin-top: 5px;
+}
+main .watch .top a span:nth-of-type(1){
+    margin-top: -2px;
+}
+main .watch .top a span:nth-of-type(2){
+    margin-top: 5px;
+}
+main .watch .bottom{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    
+}
+main .watch .bottom .svg{
+    width: 10%;
+    margin: 0 auto;
+}
+main .watch .bottom .svg span{
+    width: 20%;
+    margin-left: 35px;
+}
+main .watch .bottom .text{
+    width: 70%;
+    color: white;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+main .watch .bottom .text h6{
+    text-align: center;
+    font-weight: 700;
+}
+main .watch .bottom .text p{
+    text-align: center;
+}
+main .watch .bottom .button{
+    width: 45%;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+main .watch .bottom .button a{
+    width: 100%;
+}
+main .watch .bottom .button a button{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(40, 40, 40);
+    border: none;
+    border-radius: 20px;
+    color: rgb(52, 68, 213);
+    font-weight: 600;
+}
+

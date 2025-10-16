@@ -1,0 +1,105 @@
+{
+    "trailer":[
+        {"id":1,"mainIMG":"https://m.media-amazon.com/images/M/MV5BZjFhN2M0ZGMtZmI3MC00NWZkLTk3Y2ItYTZkNDZkODhmYThiXkEyXkFqcGc@._CR518,0,2855,1606_QL75_UX500_CR0,0,500,281_.jpg","sideIMG":"https://m.media-amazon.com/images/M/MV5BNjYwYzM4OTUtMDhmMy00ZTZiLTk0YzMtZGQ1MTRhMDNjZjMzXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg","title":"'Star Wars: The Mandalorian and Grogu'","time":"1:35"},
+        {"id":2,"mainIMG":"https://m.media-amazon.com/images/M/MV5BZmYxZDU5OTctZGI1OC00YWM2LWJmMjMtYzdiNjRkZWVkNjRiXkEyXkFqcGdeQXJoYW5uYWg@._V1_QL40_QL75_UX500_CR0,0,500,281_.jpg","sideIMG":"https://m.media-amazon.com/images/M/MV5BYzc4NzY0MWEtNWJmOC00MTZlLTljMDgtMTczZTEzODVjMzkyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg","title":"Colin Farrell and Margot Robbie Compare IMDb Pages","time":"6:49"},
+        {"id":3,"mainIMG":"https://m.media-amazon.com/images/M/MV5BNDI2M2YxZDUtOTVjOC00MDViLThhZmUtMjM2MGU1MzNiN2FkXkEyXkFqcGc@._CR25,33,3359,1889_QL75_UY281_CR0,0,500,281_.jpg","sideIMG":"https://m.media-amazon.com/images/M/MV5BMzYyOTAwODEtZTY4My00MjVkLWJjYjUtMjE2N2UzYTE3MTY3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg","title":"Julia Roberts in 'After the Hunt'","time":"2:41"},
+        {"id":4,"mainIMG":"https://m.media-amazon.com/images/M/MV5BYWRjYWFjZjAtY2I0Ny00ZTg1LWFmZGItNDk4ODJmNjY2MzQwXkEyXkFqcGdeQXNhcmFocmVi._V1_QL40_QL75_UX500_CR0,0,500,281_.jpg","sideIMG":"https://m.media-amazon.com/images/M/MV5BYWU4YTljYmItYjczNS00MWY0LWI3NjctZjJhYjU3NWNmNWZhXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg","title":"The 'Gen V' Season 2 Cast Plays What's in the Box?","time":"12:35"},
+        {"id":5,"mainIMG":"https://m.media-amazon.com/images/M/MV5BMmJmMzc3ZGMtOTllZC00NTUyLTkwNTctNDlhNTc2NDExZjk0XkEyXkFqcGdeQWFybm8@._V1_QL40_QL75_UX500_CR0,0,500,281_.jpg","sideIMG":"https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg","title":"'Now You See Me: Now You Don't'","time":"2:25"},
+        {"id":6,"mainIMG":"https://m.media-amazon.com/images/M/MV5BYWRjMjc1ZGMtYjhmNi00NzYyLWFjN2YtMzk2MTNkMGMzMDlkXkEyXkFqcGc@._CR374,9,1600,900_QL75_UX500_CR0,0,500,281_.jpg","sideIMG":"https://m.media-amazon.com/images/M/MV5BMTNlMTk1YTItOWYxNi00ZWIzLTkyOWEtNTJmMzk4NmIyN2NmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg","title":"Jack Black &amp; Paul Rudd Remake 'Anaconda'","time":"2:38"}
+    ],
+    "right":[
+        {"id":1,"pic":"https://m.media-amazon.com/images/M/MV5BNTI3MDkzNjctOTY2Ni00ZTJiLWI5N2ItNDI2MzI4MWJlMTMyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg","text":"10:37","text1":"Inside Dwayne Johnson's Transformation","text2":"Watch now"},
+        {"id":2,"pic":"https://m.media-amazon.com/images/M/MV5BMDQ5ZmY0OWYtOTYzZi00Mzg5LWE3N2EtMjYwZTAzZmJhYjkyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg","text":"2:25","text1":"There's Major Oscar Buzz for 'Hamnet'","text2":"Watch the Trailer"},
+        {"id":3,"pic":"https://m.media-amazon.com/images/M/MV5BZjE4ZDU4ZjMtZjliYS00M2ZmLThkNTItN2U3MmJjOGU0NmIxXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg","text":"2:57","text1":"Invincible","text2":"Watch the Game"}
+      ],
+    "featuring":[
+        {"id":1,"picture":"https://m.media-amazon.com/images/M/MV5BNGRiYmY2NjctN2RlMS00MTlhLWI4Y2ItNjdkMjAzOWI5OGIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"Staff Picks: What to Watch This Month","text2":"See our picks"},
+        {"id":2,"picture":"https://m.media-amazon.com/images/M/MV5BMjBhODEwZmQtYmVmOC00OWVmLWEyYjItNGE4OGUzMmM2MGM0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"Radical On-Screen Transformations","text2":"See the gallery"},
+        {"id":3,"picture":"https://m.media-amazon.com/images/M/MV5BOGFmNDVjMjAtZGQxMi00YjJlLWI5NjEtMjc5MTVkNDRmZTNkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"10 Horror Recommendations on Netflix","text2":"See the picks"},
+        {"id":4,"picture":"https://m.media-amazon.com/images/M/MV5BNDEwOGNjYjQtZjcyNS00NjYwLTk3YmYtN2QwNWI0MTAwZjRjXkEyXkFqcGc@._V1_QL75_UY214_CR0,0,380,214_.jpg","text1":"Photos We Love","text2":"See the gallery"},
+        {"id":5,"picture":"https://m.media-amazon.com/images/M/MV5BYTJiNjdjNDktOWQwZi00ODE2LTkzZGYtMTI3MDQ4MzYwZGNjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"The Latest (and Greatest) New Posters","text2":"See more posters"},
+        {"id":6,"picture":"https://m.media-amazon.com/images/M/MV5BYTc0ZTc3OTYtNGE0Zi00NWM0LTk4ZDMtMTZhY2Y4ZDQ2ZGM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"Hispanic and Latino Hollywood Icons","text2":"See the photos"},
+        {"id":7,"picture":"https://m.media-amazon.com/images/M/MV5BMGE5YTNmMzgtNzJhMy00ZGJiLWI1ZmYtYmQyZmM1MDU5ZjkxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"Hispanic and Latino Stars to Watch","text2":"See the stars"},
+        {"id":8,"picture":"https://m.media-amazon.com/images/M/MV5BOGM4ZGU5ZGYtMzM3Zi00MGYzLTg1MzUtNWJiZjhmOTM1NTc2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"TV Tracker: Renewed and Canceled Shows","text2":"Check the status"}
+    ],
+    "popular":[
+        {"id":1,"text1":"TOP RISING","picture1":"https://m.media-amazon.com/images/M/MV5BNDQyYTE1MDQtNzQ5MS00ZTRjLWE2ODYtMGUwYjkwNGZlYjIzXkEyXkFqcGc@._V1_QL75_UX140_CR0,6,140,140_.jpg","text2":"28(9,498)","text3":"Niamh McChormach","picture2":"https://m.media-amazon.com/images/M/MV5BYzgzZThiMTUtY2FkNC00MDIwLWFlZDctMDA3YmQwYTU3ODVhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,140_.jpg","text4":"36(8,736)","text5":"Emily Fairn"},
+        {"id":2,"text1":"BY RANKING","picture1":"https://m.media-amazon.com/images/M/MV5BMTQwNjc5NjY2NV5BMl5BanBnXkFtZTcwNDIxMzg1MQ@@._V1_QL75_UX140_CR0,14,140,140_.jpg","text2":"1(8)","text3":"Paul Thomas","picture2":"https://m.media-amazon.com/images/M/MV5BYmQ5YjUxODEtZDNkZS00MDA5LWI1ZGEtNThiNGFkZTQyZjlmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,140_.jpg","text4":"2(2,915)","text5":"Mae Martin"},
+        {"id":3,"text1":"","picture1":"https://m.media-amazon.com/images/M/MV5BMjI0MTg3MzI0M15BMl5BanBnXkFtZTcwMzQyODU2Mw@@._V1_QL75_UX140_CR0,2,140,140_.jpg","text2":"3(6)","text3":"Leonardo Dicaprio","picture2":"https://m.media-amazon.com/images/M/MV5BMTk1Nzc5MzQyMV5BMl5BanBnXkFtZTcwNjQ5OTA0Mg@@._V1_QL75_UX140_CR0,4,140,140_.jpg","text4":"4(3)","text5":"Robert Redford"},
+        {"id":4,"text1":"","picture1":"https://m.media-amazon.com/images/M/MV5BNzEwM2Q1NjktZjEwMy00NmM1LTk5ODUtOTZhYmYwNTc1MDgwXkEyXkFqcGc@._V1_QL75_UX140_CR0,12,140,140_.jpg","text2":"30(8,786)","text3":"Suzanna Son","picture2":"https://m.media-amazon.com/images/M/MV5BZDkzNjU1OGUtMzFkYi00Yjg4LWIxMDYtYWQyNDY0N2UxNTYzXkEyXkFqcGc@._V1_QL75_UX140_CR0,11,140,140_.jpg","text4":"20(3,309)","text5":"Anthony Perkins"},
+        {"id":5,"text1":"","picture1":"https://m.media-amazon.com/images/M/MV5BMjE5NjE5Mzk2MV5BMl5BanBnXkFtZTcwODI5MDE1Ng@@._V1_QL75_UX140_CR0,6,140,140_.jpg","text2":"3(181)","text3":"Charlie Hunnam","picture2":"https://m.media-amazon.com/images/M/MV5BMzBjNjZiODgtZWU1Yy00MzJlLTg3NmEtMTU3MjcwN2Q3ZmU4XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,140_.jpg","text4":"8(8)","text5":"Teyana Taylor"}
+    ],
+    "topten":[
+        {"id":1,"picture":"https://m.media-amazon.com/images/M/MV5BZGY2OTcxYWItZDgxNi00Y2E1LTk0YTgtZDcwZjZkNzU4OTJjXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg","text1":"7.8","text2":"1.Monster"},
+        {"id":2,"picture":"https://m.media-amazon.com/images/M/MV5BZTM0NTQ5ZTktNzIwZS00OWRhLWIxZGEtNTUyMzkzZDVhOTFmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg","text1":"5.9","text2":"2.Wayward"},
+        {"id":3,"picture":"https://m.media-amazon.com/images/M/MV5BZTIzNmQzYzUtNTdlNi00NmY5LThmNTYtMGFmZjUxMTgzOGNmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg","text1":"7.0","text2":"3.The Lost Bus"},
+        {"id":4,"picture":"https://m.media-amazon.com/images/M/MV5BN2E4MmM2ODctYTIyNS00ZGIxLWJmYjctYTUxYThhNzY4MmMzXkEyXkFqcGc@._V1_QL75_UX140_CR0,21,140,207_.jpg","text1":"6.0","text2":"4.Play Dirty"},
+        {"id":5,"picture":"https://m.media-amazon.com/images/M/MV5BYmE4N2ZlNWQtMDRhNC00ZmYzLWI5ODMtODAzZjRiOTkxZGZhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg","text1":"6.6","text2":"5.Steve"},
+        {"id":6,"picture":"https://m.media-amazon.com/images/M/MV5BMjNkZDQzYTItZDgzNi00ZDU4LWI2NWItYjA0ZDdlMjgyMWI2XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg","text1":"7.4","text2":"6.Black Rabbit"},
+        {"id":7,"picture":"https://m.media-amazon.com/images/M/MV5BZDIyMGU2NTktOTM3YS00OTRjLWJiMmItNDEyNjVhZTZiZGUxXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg","text1":"8.3","text2":"7.Peacemaker"}
+    ],
+    "favorite":[
+        {"id":1,"picture":"https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg","text1":"7.6","text2":"Weapons"},
+        {"id":2,"picture":"https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg","text1":"7.1","text2":"Superman"},
+        {"id":3,"picture":"https://m.media-amazon.com/images/M/MV5BOGIyNGRiNzgtOWQxZC00YzJmLThlZTYtYTMyMDk0YWZjMTk5XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg","text1":"7.2","text2":"Alien:Earth"},
+        {"id":4,"picture":"https://m.media-amazon.com/images/M/MV5BZTIzNmQzYzUtNTdlNi00NmY5LThmNTYtMGFmZjUxMTgzOGNmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg","text1":"7.0","text2":"The Lost Bus"},
+        {"id":5,"picture":"https://m.media-amazon.com/images/M/MV5BMjNkZDQzYTItZDgzNi00ZDU4LWI2NWItYjA0ZDdlMjgyMWI2XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg","text1":"7.4","text2":"Black Rabbit"},
+        {"id":6,"picture":"https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg","text1":"7.6","text2":"Sinners"},
+        {"id":7,"picture":"https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg","text1":"9.5","text2":"Breaking Bad"},
+        {"id":8,"picture":"https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg","text1":"8.7","text2":"Intrestellar"}
+    ],
+    "videos":[
+        {"id":1,"picture":"https://m.media-amazon.com/images/M/MV5BMDNkMjNiMzQtZmU0Mi00ZDI0LTgxMjQtNTcwODFmMDVhZTI4XkEyXkFqcGdeQXRyZXdlcw@@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"10:04","text2":"The 'KPop Demon Hunters' Vocal Cast Get Quizzed","text3":"Watch now"},
+        {"id":2,"picture":"https://m.media-amazon.com/images/M/MV5BYTgzZGNjZWUtMTA5OC00NWJhLWEyN2EtNTkyNGZjMmMwNDMzXkEyXkFqcGdeQXJoYW5uYWg@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"10:37","text2":"Dwayne Johnson's 'Smashing Machine' Transformation","text3":"Watch the interview"},
+        {"id":3,"picture":"https://m.media-amazon.com/images/M/MV5BMDM2ZDlhOWQtMTdhZS00ZDc5LWFkMTEtMTM1MWNjM2M0NGM1XkEyXkFqcGdeQWFsZWxvZw@@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"4:54","text2":"Why Leo Wants You to Go to the Movies","text3":"Watch the interview"}
+    ],
+    "exploring":[
+        {"id":1,"picture":"https://m.media-amazon.com/images/M/MV5BN2E4MmM2ODctYTIyNS00ZGIxLWJmYjctYTUxYThhNzY4MmMzXkEyXkFqcGc@._V1_QL75_UX140_CR0,21,140,207_.jpg","text1":"6.0","text2":"Play Dirty"},
+        {"id":2,"picture":"https://m.media-amazon.com/images/M/MV5BYWU4YTljYmItYjczNS00MWY0LWI3NjctZjJhYjU3NWNmNWZhXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg","text1":"7.6","text2":"Gen V"},
+        {"id":3,"picture":"https://m.media-amazon.com/images/M/MV5BNjU2OWNjMDctYzdhMi00ZmUwLTk1OTYtYmNkMjE1MDBjMDU1XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg","text1":"7.2","text2":"The Girlfriend"},
+        {"id":4,"picture":"https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg","text1":"8.0","text2":"The Rookie"},
+        {"id":5,"picture":"https://m.media-amazon.com/images/M/MV5BMWJlN2U5MzItNjU4My00NTM2LWFjOWUtOWFiNjg3ZTMxZDY1XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg","text1":"8.6","text2":"The Boys"},
+        {"id":6,"picture":"https://m.media-amazon.com/images/M/MV5BMDFmMGZmMGItNGRjNC00NjVjLWI5ODEtNzhjMTE5MmJhN2FkXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg","text1":"8.4","text2":"Supernatural"},
+        {"id":7,"picture":"https://m.media-amazon.com/images/M/MV5BYzE2ODQ0NmQtYmMxMS00MGRlLTgwOGEtYjRkN2FkYmZlN2JlXkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg","text1":"8.6","text2":"Yellowstone"},
+        {"id":8,"picture":"https://m.media-amazon.com/images/M/MV5BMWUwZjJmYjctYTY3MC00ZTVlLWI1ZGEtNWQzMTFlMTcwMTY2XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg","text1":"8.5","text2":"Shameless"},
+        {"id":9,"picture":"https://m.media-amazon.com/images/M/MV5BMjgxYjAwNmMtYTAwZC00YmQxLWJlOTMtMWM0NGJmNDE0YmI2XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg","text1":"8.7","text2":"House"}
+    ],
+    "boxoffice":[
+        {"id":1,"text1":"One Battle After Another","text2":"$11M-","text3":"Total $33M"},
+        {"id":2,"text1":"The Smashing Machine","text2":"$6M-","text3":"Total $6M"},
+        {"id":3,"text1":"Gabby's Dollhouse: The Movie","text2":"$5.2M-","text3":"Total $22M"},
+        {"id":4,"text1":"The Conjuring: Last Rites","text2":"$4.1M-","text3":"Total $168M"},
+        {"id":5,"text1":"Demon Slayer","text2":"$3.5M-","text3":"Total $125M"}
+    ],
+    "editor":[
+        {"id":1,"picture":"https://m.media-amazon.com/images/M/MV5BNDY1NDcwYjUtOWIzNC00MWUzLWExZjktMmE1ZjJiZThiOTcwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"Staff Picks: What to Watch in October","text2":"See our picks"},
+        {"id":2,"picture":"https://m.media-amazon.com/images/M/MV5BM2E1YmU5NDEtN2JlOS00YmYwLWIyZWMtMjEyYWFiMGRjZjI1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"Everything New on Prime Video in October","text2":"See the list"},
+        {"id":3,"picture":"https://m.media-amazon.com/images/M/MV5BYjczZGI3ZDktZDZkNi00ZTQ3LTk3ZDctMjNhOWFjYzBkNmExXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"Poll:Movie Marquees","text2":"Vote now"},
+        {"id":4,"picture":"https://m.media-amazon.com/images/M/MV5BYjlkOTI4NWItMGI2MC00ZGFmLTkyNzktNTIxNjMzMWNiMmJkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"Everything New on Disney+ in October","text2":"See the list"},
+        {"id":5,"picture":"https://m.media-amazon.com/images/M/MV5BNzEwZDk5Y2MtNTAxNi00MjExLThmMzgtNWU0ZjlmOWNhN2I4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"Everything New on HBO Max in October","text2":"See the list"},
+        {"id":6,"picture":"https://m.media-amazon.com/images/M/MV5BNDYzNTY3MDMtYjgxYS00ZjhiLTg2NDctOWQzZjRhZjBkNTE0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"October 2025 TV and Streaming Premiere Dates","text2":"See the list"},
+        {"id":7,"picture":"https://m.media-amazon.com/images/M/MV5BY2UyNjVmMzktYmEyNS00ZGM1LWI4NDAtOWU5NzdiMDZkMmNlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"Everything New on Paramount+ in October","text2":"See the list"},
+        {"id":8,"picture":"https://m.media-amazon.com/images/M/MV5BZWU3ZjU2NjktZGQ2Zi00ODc5LWEzNTQtYWUwNTI5NTM0Y2M2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"Everything New on Netflix in October","text2":"See the list"},
+        {"id":9,"picture":"https://m.media-amazon.com/images/M/MV5BNzg4NWQxMTUtYmM2Yy00NGY4LWFkNTAtOWM4MGJjM2RiMzg2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"Everything New on Hulu in October","text2":"See the list"},
+        {"id":10,"picture":"https://m.media-amazon.com/images/M/MV5BYTdkY2VhYWItZWJjMi00MDkzLWE1YzUtNDdmNTdlMzBmZDc5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,214_.jpg","text1":"Hot Takes From NYFF 2025","text2":"See Arno's picks"}
+    ],
+    "born":[
+        {"id":1,"img":"https://m.media-amazon.com/images/M/MV5BMTUyOTM1NTA4NF5BMl5BanBnXkFtZTcwNDg3NjEwMw@@._V1_QL75_UX140_CR0,12,140,140_.jpg","text":"Sacha BAron Cohen","text2":"54"},
+        {"id":2,"img":"https://m.media-amazon.com/images/M/MV5BYWQ1MzhlOTctZDBiMi00NWMzLWFkN2ItMDg0MDg4NzE3NWI4XkEyXkFqcGc@._V1_QL75_UY140_CR55,0,140,140_.jpg","text":"Dany LIyod","text2":"53"},
+        {"id":3,"img":"https://m.media-amazon.com/images/M/MV5BNjYxZWFhYTktZjMxNi00NjY4LTg5MjktYTg1YTAzYmUxYjRiXkEyXkFqcGc@._V1_QL75_UX140_CR0,12,140,140_.jpg","text":"Kate Walsh","text2":"58"},
+        {"id":4,"img":"https://m.media-amazon.com/images/M/MV5BNTZkM2E4YmYtMmY1Yy00ZjEwLTlkM2UtNjk4OTIzNzU4MDE3XkEyXkFqcGc@._V1_QL75_UY140_CR35,0,140,140_.jpg","text":"Himesh Patel","text2":"35"},
+        {"id":5,"img":"https://m.media-amazon.com/images/M/MV5BMTgyNTMzNDYxN15BMl5BanBnXkFtZTcwMjk3MDY3Mg@@._V1_QL75_UX140_CR0,0,140,140_.jpg","text":"Kiele Sanchez","text2":"48"},
+        {"id":6,"img":"https://m.media-amazon.com/images/M/MV5BMGU4ZWMxNDUtNDU2MS00NjYyLWI4NmItNTVjNmEzMzg2NzdmXkEyXkFqcGc@._V1_QL75_UY140_CR10,0,140,140_.jpg","text":"Matt Walsh","text2":"61"},
+        {"id":7,"img":"https://m.media-amazon.com/images/M/MV5BODdmNmE0MjgtN2JiMS00MTc3LThmZmYtYTliOGZlZWQxMTg4XkEyXkFqcGc@._V1_QL75_UX140_CR0,12,140,140_.jpg","text":"Katia Winter","text2":"42"},
+        {"id":8,"img":"https://m.media-amazon.com/images/M/MV5BMTljNzZiOWUtZThkNi00ZmI4LTk3NWEtOGZlYWFlNGZlOTMwXkEyXkFqcGc@._V1_QL75_UX140_CR0,12,140,140_.jpg","text":"Pooga Hegde","text2":"35"},
+        {"id":9,"img":"https://m.media-amazon.com/images/M/MV5BZjU4MjQwMGEtYjRlMy00MTA5LTkxZmEtYjczNmYyNmZlZjIzXkEyXkFqcGc@._V1_QL75_UY140_CR33,0,140,140_.jpg","text":"Alex Ferns","text2":"57"},
+        {"id":10,"img":"https://m.media-amazon.com/images/M/MV5BNzE0NjcyMjkyNF5BMl5BanBnXkFtZTcwMTUxMDA4MQ@@._V1_QL75_UX140_CR0,5,140,140_.jpg","text":"Chris Carter","text2":"69"}
+      ],
+    "news":[
+        {"id":1,"picture":"https://m.media-amazon.com/images/M/MV5BZGY2OTcxYWItZDgxNi00Y2E1LTk0YTgtZDcwZjZkNzU4OTJjXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg","text1":"Monster: The Ed Gein Story debuted with 12.2 million views in its first four three on Netflix.","text2":"October 7   Variety Film+TV"},
+        {"id":2,"picture":"https://m.media-amazon.com/images/M/MV5BYWExNjg4ZmItMWM4NS00NjIxLWI2NDMtYWY4MTI2NGExNTZiXkEyXkFqcGc@._V1_QL75_UY89_CR37,0,60,89_.jpg","text1":"‘Heat 2’ Moves From Warner Bros. to Amazon MGM as Michael Mann’s Sequel Gains Traction.","text2":"October 7   Variety Film news"},
+        {"id":3,"picture":"https://m.media-amazon.com/images/M/MV5BYjhjZTk3OTMtMmNjNC00ZTY3LWI5YWMtOWI5YjJmYmE4MjYxXkEyXkFqcGc@._V1_QL75_UY89_CR14,0,60,89_.jpg","text1":"Instagram Is Launching Its Own Oscars for Creators: “Rings” (Exclusive)","text2":"October 7   Hollywood news"},
+        {"id":4,"picture":"https://m.media-amazon.com/images/M/MV5BZGNjZDMyMzgtOTExZi00ZmE5LTk0YTQtMzIxMjYwNmU4NzIwXkEyXkFqcGc@._V1_QL75_UY89_CR14,0,60,89_.jpg","text1":"‘Chainsaw Man’: Watch the Anime Movie’s Opening Sequence Ahead of U.S. Release","text2":"Hollywood Reporter"}
+    ]
+    
+}

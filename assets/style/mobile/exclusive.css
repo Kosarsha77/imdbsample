@@ -1,0 +1,115 @@
+main h2{
+    color: #EBC103;
+    font-weight: 600;
+    margin-left: 15px;
+}
+
+main .exclusive{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(20, 20, 20);
+}
+main .exclusive .top{
+    width: 100%;
+}
+main .exclusive .top .first{
+    width: 80%;
+    margin-left: 15px;
+    display: flex;
+    flex-direction: row;
+}
+main .exclusive .top .first h2{
+    color: white;
+    font-weight: 600;
+    margin-top: 7px;
+    font-size: 20px;
+}
+main .exclusive .top .second{
+    width: 100%;
+}
+main .exclusive .top .second p{
+    width: 80%;
+    margin-left: 20px;
+    color: rgb(179, 179, 179);
+    font-weight: 600;
+}
+
+main .exclusive .bottom{
+    width: 100%;
+    background-color: rgb(20, 20, 20);
+}
+
+main .exclusive .bottom .swiper .swiper-slide{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(20, 20, 20);
+}
+main .exclusive .bottom .swiper .swiper-button-next{
+    color: rgb(187, 187, 187);
+    width: 10px;
+}
+main .exclusive .bottom .swiper .swiper-button-prev{
+    color: rgb(187, 187, 187);
+    width: 10px;
+}
+main .exclusive .bottom .swiper .swiper-slide .top{
+    width: 100%;
+}
+main .exclusive .bottom .swiper .swiper-slide .top a{
+    width: 100%;
+    position: relative;
+    text-decoration: none !important;
+}
+main .exclusive .bottom .swiper .swiper-slide .top a img{
+    width: 276px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+main .exclusive .bottom .swiper .swiper-slide .top a span{
+    position: absolute;
+    top: 115px;
+    right: 100px;
+}
+main .exclusive .bottom .swiper .swiper-slide .top a p{
+    color: white;
+    position: absolute;
+    top: 120px;
+    right: 60px;
+}
+main .exclusive .bottom .swiper .swiper-slide .bottom{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+main .exclusive .bottom .swiper .swiper-slide .bottom a{
+    width: 100%;
+    text-decoration: none !important;
+}
+main .exclusive .bottom .swiper .swiper-slide .bottom a p.first{
+    width: 70%;
+    color: white;
+    text-align: left;
+    font-size: 16px;
+    margin-left: 30px;
+    height: 35px;
+}
+main .exclusive .bottom .swiper .swiper-slide .bottom a p.second{
+    width: 55%;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 30px;
+    height: 10px;
+}
+main .exclusive .bottom .swiper .swiper-slide .bottom .text{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+}
+main .exclusive .bottom .swiper .swiper-slide .bottom .text p{
+    color: gray;
+    font-size: 15px;
+    margin-top: 5px;
+}

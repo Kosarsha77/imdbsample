@@ -1,0 +1,172 @@
+.trailer{
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    justify-content: center;
+    
+}
+.trailer .right-list{
+    width: 30%;
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 10px;
+    height: 547px;
+    margin-top: -50px;
+}
+.trailer .right-list h2{
+    width: 25%;
+    text-align: left;
+    color: #EBC103;
+    font-size: 20px;
+    font-weight: 700;
+}
+.trailer .right-list a{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    text-decoration: none !important;
+}
+.trailer .right-list a:hover{
+    filter: brightness(70%);
+}
+.trailer .right-list a .right img{
+    width: 88px;
+    border-radius: 10px;
+}
+.trailer .right-list a .left{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+.trailer .right-list a .left .top{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+.trailer .right-list a .left .top p{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.trailer .right-list a .left .middle{
+    width: 100%;
+}
+.trailer .right-list a .left .middle p.first{
+    width: 60%;
+    color: white;
+}
+.trailer .right-list a .left .middle p.second{
+    width: 100%;
+    color: gray;
+    margin-top: -10px;
+}
+.trailer .swiper{
+    width: 864px;
+    background-color: black;
+    margin-top: 10px;
+    background: linear-gradient(180deg,transparent 0%,transparent 65%,rgba(0,0,0,0.7) 77%,rgba(0,0,0,1)85%,rgba(0,0,0,1)100%) !important;
+}
+
+.trailer .swiper .swiper-button-next{
+    color: gray;
+    background-color: transparent;
+    width: 10px;
+}
+.trailer .swiper .swiper-button-prev{
+    color: gray;
+    background-color: transparent;
+    width: 10px;
+}
+.trailer .swiper .swiper-button-prev svg{
+    background-color: transparent;
+}
+.trailer .swiper .swiper-button-next svg{
+    background-color: transparent;
+}
+.trailer .swiper .swiper-slide{
+    width: 100%;
+    background-color: black;
+    height: 547px;
+        position: relative !important;
+    z-index: -9999 !important;
+    background: linear-gradient(180deg,transparent 0%,transparent 65%,rgba(0,0,0,0.7) 77%,rgba(0,0,0,1)85%,rgba(0,0,0,1)100%) !important;
+}
+
+
+
+.trailer .swiper .swiper-slide .top{
+    width: 100%;
+    position: relative;
+    z-index: -99999;
+}
+.trailer .swiper .swiper-slide .top img{
+    width: 100%;
+    border-radius: 10px;
+    background:linear-gradient(180deg,transparent 0%,transparent 65%,rgba(0,0,0,0.7) 77%,rgba(0,0,0,1)85%,rgba(0,0,0,1)100%) !important;
+}
+.trailer .swiper .swiper-slide .top img:hover{
+    filter: brightness(80%);
+}
+.trailer .swiper .swiper-slide .top span{
+    position: absolute;
+    right: 88.5%;
+    bottom: 19.7%;
+    opacity: 0.5;
+}
+.trailer .swiper .swiper-slide .top span:nth-of-type(1){
+    position: absolute;
+    right: 70.5%;
+    bottom: 12.7%;
+    opacity: 0.5;
+}
+
+.trailer .swiper .swiper-slide .top p{
+    position: absolute;
+    right: 65%;
+    bottom: 11%;
+    color: white;
+}
+
+
+.trailer .swiper .swiper-slide .top img.second{
+    width: 132px;
+    height: 195px;
+    border-radius: 10px;
+    position: absolute;
+    top: 70%;
+    left: 7%;
+    
+}
+.trailer .swiper .swiper-slide:nth-of-type(5) .top img.second{
+    width: 132px;
+    height: 195px;
+    border-radius: 10px;
+    position: absolute;
+    top: 60%;
+    left: 7%;
+   
+}
+.trailer .swiper .swiper-slide .top p.first{
+    width: 400px;
+    position: absolute;
+    right: 30%;
+    text-align: left;
+    top: 88%;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.trailer .swiper .swiper-slide .top p.second{
+   position: absolute;
+    right: 60%;
+    top: 102%;
+    font-weight: 600;
+    font-size: 18px;
+    color: gray;
+}
+.trailer h3{
+    display: none;
+}
