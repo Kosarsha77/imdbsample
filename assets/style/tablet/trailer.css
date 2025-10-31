@@ -1,6 +1,6 @@
 .trailer{
     width: 100%;
-    height: 700px;
+    height: 550px;
     background-color: black;
 }
 .trailer .right-list{
@@ -42,13 +42,13 @@
 }
 .trailer .swiper .swiper-slide .top span{
     position: absolute;
-    right: 89%;
-    bottom: 20%;
+    right: 86.7%;
+    bottom: 15%;
     opacity: 0.5;
 }
 .trailer .swiper .swiper-slide .top span:nth-of-type(1){
     position: absolute;
-    right: 70%;
+    right: 65%;
     bottom: 13%;
     opacity: 0.5;
 }
@@ -59,7 +59,7 @@
 }
 .trailer .swiper .swiper-slide .top p{
     position: absolute;
-    right: 65%;
+    right: 60%;
     bottom: 11%;
     color: white;
 }
@@ -83,7 +83,7 @@
 .trailer .swiper .swiper-slide .top p.first{
     width: 400px;
     position: absolute;
-    right: 35%;
+    right: 20%;
     text-align: left;
     top: 88%;
     font-weight: 600;
@@ -92,11 +92,24 @@
 
 .trailer .swiper .swiper-slide .top p.second{
     position: absolute;
-    right: 62%;
+    right: 55%;
     top: 105%;
     font-weight: 600;
     font-size: 18px;
     color: gray;
+}
+.trailer .swiper .swiper-slide .top span.third{
+    position: absolute;
+    right: 70%;
+    top: 110%;
+}
+.trailer .swiper .swiper-slide .top span.third p{
+    position: absolute;
+    font-size: 14px;
+    top: 125%;
+    left: 100%;
+    margin-top: 7px;
+    
 }
 
 

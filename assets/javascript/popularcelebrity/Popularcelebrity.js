@@ -56,7 +56,7 @@ async function Popularcelebrity() {
           slidesPerView:1,
         },
         768:{
-          slidesPerView :4,
+          slidesPerView :3,
         },
         1200:{
           slidesPerView:3,

@@ -3,6 +3,7 @@
     background-color: black;
     z-index: 1;
     margin-top: 20px;
+    height: 300px;
 }
 .trailer .right-list{
     display: none;
@@ -42,18 +43,18 @@
 }
 .trailer .swiper .swiper-slide .top span{
     position: absolute;
-    right: 52%;
+    right: 47%;
     bottom: 2%;
 }
 .trailer .swiper .swiper-slide .top span.second{
     position: absolute;
-    right: 83.5%;
-    bottom: 2.3%;
+    right: 82%;
+    bottom: -4%;
     opacity: 0.6;
 }
 .trailer .swiper .swiper-slide .top p{
     position: absolute;
-    right: 40%;
+    right: 35%;
     bottom: 0%;
     color: white;
 }
@@ -93,4 +94,16 @@
     font-weight: 700;
     margin-left: 20px;
     background-color: black;
+}
+.trailer .swiper .swiper-slide .top span.third{
+    position: absolute;
+    right: 62%;
+    top: 140%;
+}
+.trailer .swiper .swiper-slide .top span.third p{
+    position: absolute;
+    right: -120%;
+    top: 120%;
+    font-size: 14px;
+    margin-top: 8px;
 }
