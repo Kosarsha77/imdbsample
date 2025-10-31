@@ -4,6 +4,7 @@
     display: flex;
     flex-direction: row;
     margin-top: 50px;
+    height: 600px;
     justify-content: center;
     
 }
@@ -73,26 +74,38 @@
 .trailer .swiper .swiper-button-next{
     color: gray;
     background-color: transparent;
-    width: 10px;
+    width: 40px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    height: 60px;
 }
 .trailer .swiper .swiper-button-prev{
     color: gray;
     background-color: transparent;
-    width: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    height: 60px;
+    width: 40px;
 }
 .trailer .swiper .swiper-button-prev svg{
     background-color: transparent;
+    height: 20px;
 }
 .trailer .swiper .swiper-button-next svg{
     background-color: transparent;
+    height: 20px;
+
 }
 .trailer .swiper .swiper-slide{
     width: 100%;
     background-color: black;
     height: 547px;
-        position: relative !important;
+    position: relative !important;
     z-index: -9999 !important;
     background: linear-gradient(180deg,transparent 0%,transparent 65%,rgba(0,0,0,0.7) 77%,rgba(0,0,0,1)85%,rgba(0,0,0,1)100%) !important;
+}
+.trailer .swiper .swiper-slide:hover{
+    cursor: pointer;
 }
 
 
@@ -112,21 +125,22 @@
 }
 .trailer .swiper .swiper-slide .top span{
     position: absolute;
-    right: 88.5%;
-    bottom: 19.7%;
+    right: 87.4%;
+    bottom: 16.8%;
     opacity: 0.5;
 }
 .trailer .swiper .swiper-slide .top span:nth-of-type(1){
     position: absolute;
-    right: 70.5%;
+    right: 69.5%;
     bottom: 12.7%;
     opacity: 0.5;
 }
 
+
 .trailer .swiper .swiper-slide .top p{
     position: absolute;
     right: 65%;
-    bottom: 11%;
+    bottom: 13%;
     color: white;
 }
 
@@ -156,16 +170,28 @@
     text-align: left;
     top: 88%;
     font-weight: 600;
-    font-size: 25px;
+    font-size: 28px;
 }
 
 .trailer .swiper .swiper-slide .top p.second{
    position: absolute;
     right: 60%;
-    top: 102%;
+    top: 105%;
     font-weight: 600;
     font-size: 18px;
     color: gray;
+}
+.trailer .swiper .swiper-slide .top span.third{
+    position: absolute;
+    right: 73%;
+    top: 110%;
+}
+.trailer .swiper .swiper-slide .top span.third p{
+    position: absolute;
+    right: -120%;
+    top: 120%;
+    font-size: 14px;
+    margin-top: 8px;
 }
 .trailer h3{
     display: none;

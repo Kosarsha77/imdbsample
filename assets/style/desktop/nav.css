@@ -139,10 +139,12 @@ header>nav>div.menu>div.mobile_menu>div.desktop-menu>div.bottom>div.left>a.first
 header>nav>div.menu>div.mobile_menu>div.desktop-menu>div.bottom>div.left>a.first>p{
     width: 100%;
     padding-left: 20px;
+    margin-top: 25px;
 }
 header>nav>div.menu>div.mobile_menu>div.desktop-menu>div.bottom>div.left>a.second>p{
     width: 100%;
     padding-left: 20px;
+    margin-top: 25px;
 }
 header>nav>div.menu>div.mobile_menu>div.desktop-menu>div.bottom>div.middle>a.first>p{
     width: 100%;
@@ -193,6 +195,12 @@ header>nav>div.menu>div.mobile_menu>div.desktop-menu>div.bottom>div.middle>a.sec
 header>nav>div.menu>div.mobile_menu>div.desktop-menu>div.bottom>div.middle>a.first>p:hover{
     text-decoration: underline ;
 }
+header>nav>div.menu>div.mobile_menu>div.desktop-menu>div.bottom>div.middle>a.first p{
+    margin-top: 25px;
+}
+header>nav>div.menu>div.mobile_menu>div.desktop-menu>div.bottom>div.middle>a.second>p{
+    margin-top: 25px;
+}
 header>nav>div.menu>div.mobile_menu>div.desktop-menu>div.bottom>div.middle>a.second>p:hover{
     text-decoration: underline;
 }
@@ -219,6 +227,12 @@ header>nav>div.menu>div.mobile_menu>div.desktop-menu>div.bottom>div.right>a.firs
 }
 header>nav>div.menu>div.mobile_menu>div.desktop-menu>div.bottom>div.right>a.second>p:hover{
     text-decoration: underline;
+}
+header>nav>div.menu>div.mobile_menu>div.desktop-menu>div.bottom>div.right>a.first>p{
+    margin-top: 25px;
+}
+header>nav>div.menu>div.mobile_menu>div.desktop-menu>div.bottom>div.right>a.second>p{
+    margin-top: 25px;
 }
 
 
